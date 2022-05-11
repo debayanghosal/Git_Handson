@@ -4,6 +4,7 @@
 	<groupId>HackathonProject</groupId>
 	<artifactId>IdentifyCourses</artifactId>
 	<version>1.0</version>
+//this is our demo for github
 	<dependencies>
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
